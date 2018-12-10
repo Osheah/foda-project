@@ -16,9 +16,9 @@ Project for GMIT Course Fundamentals of Data Analysis
 
 ### Other requirments 
 
-   1. Use github version control in public repo
+   1. Use github version control in public repo 
    2. Upload repo url to the assignment section on student page. 
-   3. Commit history of at least 10
+   3. Commit history of at least 10 
    4. Meaningful commit messages
    5. Assignment deadline 14/12/2018 at midnight
    6. README file containing an explanation of what is in the repository and how to run jupyter notebook. 
@@ -67,14 +67,12 @@ git - version
 
 The gitignore file ignores the .git and .ipynb_checkpoints in the local folder. Python files are also ignored. A standard gitignore file was used. It can be found here [Python gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore) 
 
-
-* img - various images used within the report; 
-* data - contains the csv 
+* research - folder containing papers/books used in this project
 * .gitignore - gitignore file taken from [gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
 * License - GNU GENERAL PUBLIC LICENSE Version 3
 * README.md - this readme
 * project.pdf - a pdf of the assignment
-* Boxplot.ipynb - The main body of the assignment
+* Boxplot.ipynb - The main body of the assignment - you will need to clone this repo or download the ipynb to your computer to view this project
 
 
 ## Jupyter 
@@ -100,7 +98,7 @@ Open cmder in your home directory or from a folder within the home directory. Ju
 C:\Users\Username\Desktop\WorkFolder\github\
 ```
 
-   * Create a repo on github [GitHub Repo](https://github.com/Osheah/simulate-real-data)
+   * Create a repo on github [GitHub Repo](https://github.com/Osheah/foda-project)
    * Clone the repo on github by clicking the green clone or download link
     
 Go to cmder and enter ... for example
@@ -150,9 +148,4 @@ Jupyter notebooks have the extension ipynb. When you find a notebook that you wa
 ## License
 
 This project is licensed under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* 
-* 
 

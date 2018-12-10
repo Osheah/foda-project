@@ -6,7 +6,7 @@ Project for GMIT Course Fundamentals of Data Analysis
 
 ## Requirments of the assignment
 
-   1. Ivestigate and explain box plots and their uses. 
+   1. Investigate and explain box plots and their uses. 
    2. Create a repository with a jupyter notebook containing findings on the box plot.  
    3. Summarise the history of the box plots
    4. Examine the situations in which box plots are used. 
